@@ -1,0 +1,2 @@
+# fruit-slicer-flutter
+Flutter project created by KLENCOD IDE
